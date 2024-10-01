@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ecwxunw.github.io/sitemap.html.gz
+Sitemap: https://ecwxunw.github.io/app/sitemap.html.gz
+Sitemap: https://ecwxunw.github.io/assets/sitemap.html.gz
+Sitemap: https://ecwxunw.github.io/css/sitemap.html.gz
+Sitemap: https://ecwxunw.github.io/data/sitemap.html.gz
+Sitemap: https://ecwxunw.github.io/includes/sitemap.html.gz
+Sitemap: https://ecwxunw.github.io/item/sitemap.html.gz
+Sitemap: https://ecwxunw.github.io/src/sitemap.html.gz
